@@ -71,7 +71,7 @@ def solvePuzzle():
   
   
   #maybe we have more than one solution, thus by pressing enter, we can see if we have more solutions. 
-  input("More Possible Solutions")
+  input("More Possible Solutions(PRESS ENTER)")
 solvePuzzle()
   
   
