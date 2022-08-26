@@ -1,6 +1,7 @@
 # SudokuSolver
 
 dependencies: 
+
 Numpy
 
 A simple Soduku Solver program made in Python. 
