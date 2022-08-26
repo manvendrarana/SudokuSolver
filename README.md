@@ -3,7 +3,8 @@
 dependencies: 
 numpy
 
-Install:
+Installation:
+
 pip3 install numpy
 
 A simple Soduku Solver program made in Python. 
