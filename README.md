@@ -1,5 +1,11 @@
 # SudokuSolver
 
+dependencies: 
+numpy
+
+Install:
+pip3 install numpy
+
 A simple Soduku Solver program made in Python. 
 by iterating through the rows/columns, the program aims to solve the puzzles using backtracking. 
 
