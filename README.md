@@ -1,7 +1,7 @@
 # SudokuSolver
 
 A Sodoku Solver.  
-by iterating through the rows/columns, the program aims to solve the puzzles using backtracking. 
+By iterating through the rows/columns, the program aims to solve the puzzles using backtracking. 
 
 0's represent empty boxes/spaces
 
