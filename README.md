@@ -1,10 +1,6 @@
 # SudokuSolver
 
-dependencies: 
-
-Numpy
-
-A simple Soduku Solver program made in Python. 
+A Sodoku Solver.  
 by iterating through the rows/columns, the program aims to solve the puzzles using backtracking. 
 
 0's represent empty boxes/spaces
